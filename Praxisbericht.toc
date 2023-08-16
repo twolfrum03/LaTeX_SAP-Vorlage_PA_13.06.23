@@ -80,7 +80,7 @@
 \contentsline {section}{\numberline {A.2}Transkripte Expterteninterviews}{38}{section.A.2}%
 \contentsline {subsection}{\numberline {A.2.1}Business Workflows}{38}{subsection.A.2.1}%
 \contentsline {subsection}{\numberline {A.2.2}Business Events}{43}{subsection.A.2.2}%
-\contentsline {subsection}{\numberline {A.2.3}bgPF}{51}{subsection.A.2.3}%
-\contentsline {section}{\numberline {A.3}Internes Wiki bgPF}{57}{section.A.3}%
+\contentsline {subsection}{\numberline {A.2.3}bgPF}{50}{subsection.A.2.3}%
+\contentsline {section}{\numberline {A.3}Internes Wiki bgPF}{56}{section.A.3}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

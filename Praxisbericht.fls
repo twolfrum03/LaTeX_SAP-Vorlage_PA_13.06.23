@@ -795,7 +795,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 OUTPUT Inhalt/04_Inhalt/5_Anhang.aux
 INPUT ./Inhalt/04_Inhalt/5_Anhang.tex
 INPUT ./Inhalt/04_Inhalt/5_Anhang.tex
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr6.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmss8.tfm
 INPUT ./Literatur/bgPF_Wiki.pdf
@@ -968,7 +967,6 @@ INPUT ./Praxisbericht.out
 INPUT ./Praxisbericht.run.xml
 OUTPUT Praxisbericht.run.xml
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb
